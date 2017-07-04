@@ -1,0 +1,2 @@
+# Jhipster
+Sample Project
